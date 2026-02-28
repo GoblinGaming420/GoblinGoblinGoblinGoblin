@@ -40,3 +40,6 @@ st-merc-board-duration-placeholder = e.g. 2 hours, end of round
 st-merc-board-description-label = DESCRIPTION
 st-merc-board-post-submit = Post
 st-merc-board-char-counter = {$remaining}/{$max}
+
+# Search
+st-merc-board-search-placeholder = Search...
