@@ -331,7 +331,8 @@
         STClothingBeltThrowingKnifes: 200
         ClothingBeltPocketPouch: 450
         ClothingBeltHerbalistPouch: 450
-
+        ClothingBackpackDuffelHikingVSRF: 3000
+        ClothingBackpackDuffelMilitaryOlive: 2500
     - name: shop-category-raincoats-and-gasmasks
       priority: 9
       items:
