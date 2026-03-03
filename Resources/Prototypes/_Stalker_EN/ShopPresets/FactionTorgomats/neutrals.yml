@@ -247,6 +247,8 @@
       ClothingBackpackMercStalker: 899 # T3 |pve backpack
       ClothingBackpackStalkerZaryaBlack: 1200 # T3 |pvp backpack
       ClothingBackpackStalkerZaryaGreen: 1200 # T3 |pvp backpack
+      ClothingBackpackDuffelHikingVSRF: 3000 # T4 
+      ClothingBackpackDuffelMilitaryOlive: 2500 # T4
       ##-------------------------------------------
       # Belts
       ClothingBeltBandolierStalker: 20 # T1 - PVE
