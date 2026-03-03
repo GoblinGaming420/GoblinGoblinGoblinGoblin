@@ -126,6 +126,8 @@
         ClothingBackpackTacticGreenStalker: 450 # T2
         ClothingBackpackMercStalker: 650 # T3
         ClothingBackpackDuffelMilitaryBlue: 1200
+        ClothingBackpackDuffelHikingVSRF: 2000
+        ClothingBackpackDuffelMilitaryOlive: 1600
           # Containers
         MedkitCMSStalker: 450 # T1
         MedkitGrizzlyStalker: 850 # T2
