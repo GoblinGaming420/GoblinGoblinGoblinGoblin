@@ -245,7 +245,7 @@
 
   - name: shop-category-armor
     priority: 6
-    items:
+    items:f
       # Helmets #
       ClothingHeadHelmetSH68ClearSky: 300 # T1 - PVP
       ClothingHeadHelmetInfantry: 875 # T2 - PVP
@@ -272,8 +272,6 @@
       ClothingBackpackDuffelGreenStalker: 30 # T1
       ClothingBackpackTacticGreenStalker: 450 # T2
       ClothingBackpackMercStalker: 550 # T3
-      ClothingBackpackDuffelHikingVSRF: 1150 # T4
-      ClothingBackpackDuffelMilitaryOlive: 1300 # T4
       # Belts
       ClothingBeltBandolierStalker: 20 # T1 - PVE
       # Containers
